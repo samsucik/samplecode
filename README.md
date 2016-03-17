@@ -8,7 +8,7 @@ Memory complexity: *O(R x C)*
 
 ###[Alumni-template.php](/alumni-template.php)
 
-The back end of the Alumni system: https://ib.gjh.sk/en/absolventi/. Receives requests from the JS-powered front end,
+The back end of the [Alumni system](https://ib.gjh.sk/en/absolventi/). Receives requests from the JS-powered front end,
 queries the MySQL database and processes the fetched results.
 
 ###[Palindromes.java](/Palindromes.java)
