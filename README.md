@@ -6,7 +6,7 @@ after cutting the chocolate into *A x B* parts by *A* horizontal cuts and *B* ve
 Time complexity: *O(RC log M)*, where *M* is the average richness of a single square.
 Memory complexity: *O(R x C)*
 
-###[Alumni-template.php](/alumni-template.php)
+###[Alumni-sort.php](/alumni-sort.php)
 
 The backbone of the [Alumni system](https://ib.gjh.sk/en/absolventi/). Receives requests from the JS-powered front end,
 queries the MySQL database and processes the fetched results.
